@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+Im Brayden Belcher, a beginner code  builder at Genesee Career Instatute (GCI).
+You can contact me at brayden.belcher2020@gmail.com or on my personal phone: 734 799 7854
