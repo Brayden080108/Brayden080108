@@ -17,18 +17,4 @@ Here are some ideas to get you started:
 Im Brayden Belcher, a beginner code  builder at Genesee Career Instatute (GCI).
 You can contact me at brayden.belcher2020@gmail.com
 
-<p align='center'> 
 
-   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
-
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=Brayden080108&show_icons=true&count_private=true"/> 
-
-   </a> 
-
-   <a href="https://github.com/Brayden080108/github-readme-stats"> 
-
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayden080108&layout=compact"/> 
-
-   </a> 
-
-</p> 
