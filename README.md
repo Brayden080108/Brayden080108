@@ -1,5 +1,7 @@
 ## Welcome to Brayden's profile 👋
 
+Im Brayden Belcher, a beginner code  builder at Genesee Career Instatute (GCI).
+You can contact me at brayden.belcher2020@gmail.com
 
 
 # 💫 About Me:
