@@ -16,5 +16,4 @@ Instagram: brayd3n_b
 
 Youtube: @bmzghosted
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayden080108)](https://github.com/Brayden080108/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayden080108&show_icons=true)
