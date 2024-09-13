@@ -2,19 +2,16 @@
 
 <!--
 **Brayden080108/Brayden080108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Im Brayden Belcher, a beginner code  builder at Genesee Career Instatute (GCI).
 You can contact me at brayden.belcher2020@gmail.com
+
+- I'm Currently working on setting up my Github account.
+- I'm currently learning Videogame Design.
+- I'm looking to collaberate on Minecraft.
+- I'm looking for help with learning specific code
+- Ask me about anything you'd like to ask.
+- My pronouns are He/Him
+- Fun Fact about me, ive played Baseball for almost 11 years.
+
 
 
