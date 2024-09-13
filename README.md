@@ -13,5 +13,8 @@ You can contact me at brayden.belcher2020@gmail.com
 - My pronouns are He/Him
 - Fun Fact about me, ive played Baseball for almost 11 years.
 
+Instagram: brayd3n_b
+
+Youtube: @bmzghosted
 
 
