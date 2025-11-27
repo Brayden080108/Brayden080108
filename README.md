@@ -5,7 +5,7 @@ You can contact me at brayden.belcher2020@gmail.com
 
 
 # 💫 About Me:
-I'm Currently working on setting up my Github account.<br>I'm currently learning Videogame Design.<br>I'm looking to collaberate on Minecraft.<br>I'm looking for help with learning specific code<br>Ask me about anything you'd like to ask.<br>My pronouns are He/Him<br>Fun Fact about me, I've played Baseball for almost 11 years.
+N/A
 
 
 ## 🌐 Socials:
